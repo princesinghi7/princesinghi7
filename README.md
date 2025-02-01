@@ -4,7 +4,7 @@
 - 💬 Open to collaborations on exciting projects!
 - 📫 You can reach me via [email/rajputprincesingh536@gmail.com/].
 - 😄 Pronouns: he/him
--⚡ Fun fact: I love solving complex coding challenges and learning new frameworks!
+- ⚡ Fun fact: I love solving complex coding challenges and learning new frameworks!
 
 
 <!---
