@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @princesinghi7
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...backend web dev
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...he/him
-- ⚡ Fun fact: ...
+- 👀 Passionate about coding and tech!
+- 🌱 Currently diving deep into backend web development.
+- 💬 Open to collaborations on exciting projects!
+- 📫 You can reach me via [email/rajputprincesingh536@gmail.com/].
+- 😄 Pronouns: he/him
+-⚡ Fun fact: I love solving complex coding challenges and learning new frameworks!
+
 
 <!---
 princesinghi7/princesinghi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
