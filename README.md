@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HEY 👋I'm Prince Singh:
  👋 Hi, I’m @princesinghi7<br> 👀 Passionate about coding and tech!<br> 🌱 Currently diving deep into backend web development.<br> 💬 Open to collaborations on exciting projects!<br> 📫 You can reach me via [email/rajputprincesingh536@gmail.com/].<br> 😄 Pronouns: he/him<br> ⚡ Fun fact: I love solving complex coding challenges and learning new frameworks!
 
 
