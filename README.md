@@ -61,29 +61,7 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 ---
 
-## 🚀 Featured Projects
-> *(Replace repo links with your actual project URLs)*
 
-- 🔹 **E-Commerce Backend API**  
-  Node.js • Express • MongoDB • JWT  
-  ➜ RESTful APIs with authentication & role-based access  
-
-- 🔹 **Portfolio Website**  
-  React • HTML • CSS  
-  ➜ Responsive personal portfolio showcasing projects  
-
-- 🔹 **User Authentication System**  
-  Node.js • MongoDB  
-  ➜ Secure login/signup with encrypted passwords  
-
----
-
-## 🧠 Problem Solving & Coding
-- Solving **DSA problems regularly on LeetCode**
-- Practicing **algorithms & data structures on HackerRank**
-- Comfortable with **arrays, strings, recursion, hashing, trees**
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -93,13 +71,6 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 ---
 
-## 🎯 Career Goals
-- 📌 Backend / Full-Stack Developer role
-- 📌 Work on scalable systems & real-world products
-- 📌 Contribute to open-source projects
-- 📌 Grow into **System Design & Architecture**
-
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=princesinghi7&icon=0&color=0"/>
