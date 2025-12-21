@@ -11,7 +11,6 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 - 📫 Reach me at: **rajputprincesingh536@gmail.com**
 
 ---
-
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/prince-singh536">
@@ -26,7 +25,6 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
   <a href="mailto:rajputprincesingh536@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
   </a>
-  <br/>
   <a href="https://x.com/princesinghoff7">
     <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/>
   </a>
@@ -37,6 +35,7 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
     <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/>
   </a>
 </p>
+
 
 
 ---
