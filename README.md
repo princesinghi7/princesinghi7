@@ -1,55 +1,108 @@
-# 💫 HEY 👋I'm Prince Singh:
- 👋 Hi, I’m @princesinghi7<br> 👀 Passionate about coding and tech!<br> 🌱 Currently diving deep into backend web development.<br> 💬 Open to collaborations on exciting projects!<br> 📫 You can reach me via [email/rajputprincesingh536@gmail.com/].<br> 😄 Pronouns: he/him<br> ⚡ Fun fact: I love solving complex coding challenges and learning new frameworks!
+# 👋 Prince Singh  
+### Full-Stack Web Developer | MERN Stack | Problem Solver  
 
+I’m a **Full-Stack Web Developer** passionate about building **scalable, efficient, and user-focused web applications**.  
+I enjoy working on backend systems, APIs, and solving real-world problems through clean code and modern technologies.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-singh536)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/princesingh536)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/princesingh536)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputprincesingh536@gmail.com)
-[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/princesinghoff7)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=youtube&logoColor=white)](https://youtube.com/@epicprince1)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/princesinghofficial7)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://facebook.com/princesinghofficial7)
+- 💻 Strong focus on **Backend Development**
+- 🌱 Currently improving **system design & advanced Node.js**
+- 🧠 Active **DSA problem solver**
+- 🤝 Open to **internships, freelance work, and full-time roles**
+- 📫 Reach me at: **rajputprincesingh536@gmail.com**
 
+---
 
-
-# ⚔️ Language Framework Tools ⚔️:
-<p align="left">
-
-  <!-- C++ -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-  <!-- Node.js -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-
-  <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-
-  <!-- HTML -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-
-  <!-- CSS -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/prince-singh536">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/princesingh536">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/princesingh536">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:rajputprincesingh536@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/princesinghoff7">
+    <img src="https://img.shields.io/badge/X-black?logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=princesinghi7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
 
+### 👨‍💻 Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+</p>
 
-<!---
-princesinghi7/princesinghi7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌐 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+> *(Replace repo links with your actual project URLs)*
+
+- 🔹 **E-Commerce Backend API**  
+  Node.js • Express • MongoDB • JWT  
+  ➜ RESTful APIs with authentication & role-based access  
+
+- 🔹 **Portfolio Website**  
+  React • HTML • CSS  
+  ➜ Responsive personal portfolio showcasing projects  
+
+- 🔹 **User Authentication System**  
+  Node.js • MongoDB  
+  ➜ Secure login/signup with encrypted passwords  
+
+---
+
+## 🧠 Problem Solving & Coding
+- Solving **DSA problems regularly on LeetCode**
+- Practicing **algorithms & data structures on HackerRank**
+- Comfortable with **arrays, strings, recursion, hashing, trees**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princesinghi7&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghi7&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🎯 Career Goals
+- 📌 Backend / Full-Stack Developer role
+- 📌 Work on scalable systems & real-world products
+- 📌 Contribute to open-source projects
+- 📌 Grow into **System Design & Architecture**
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=princesinghi7&icon=0&color=0"/>
+</p>
+
+⭐ *If you like my work, feel free to explore my repositories and connect with me!*  
