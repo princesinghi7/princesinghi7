@@ -51,32 +51,12 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 
 ## 📊 GitHub Stats
-name: Generate GitHub Stats
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate stats image
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/github-metrics.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: princesinghi7
-          template: classic
-          base: header, activity, community, repositories
-          config_timezone: Asia/Kolkata
-
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Repos-Check%20My%20Projects-blue"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20MERN-success"/>
+  <img src="https://img.shields.io/badge/DSA-Active%20Problem%20Solver-orange"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Freelance%20%7C%20Full--Time-red"/>
+</p>
 
 ---
 
