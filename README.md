@@ -52,7 +52,6 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://princesinghi7-github-stats.vercel.app/api?username=princesinghi7&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghi7&theme=tokyonight" height="165"/>
 </p>
 
