@@ -52,11 +52,10 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-Check%20My%20Projects-blue"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20MERN-success"/>
-  <img src="https://img.shields.io/badge/DSA-Active%20Problem%20Solver-orange"/>
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%7C%20Freelance%20%7C%20Full--Time-red"/>
+  <img src="https://princesinghi7-github-stats.vercel.app/api?username=princesinghi7&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghi7&theme=tokyonight" height="165"/>
 </p>
+
 
 ---
 
