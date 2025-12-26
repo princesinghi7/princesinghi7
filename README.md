@@ -51,21 +51,29 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=princesinghi7&show_icons=true&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=princesinghi7&show_icons=true&theme=default" height="165"/>
-  </picture>
+name: Generate GitHub Stats
 
-  <picture>
-    <source 
-      srcset="https://streak-stats.demolab.com?user=princesinghi7&theme=tokyonight" 
-      media="(prefers-color-scheme: dark)"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghi7&theme=default" height="165"/>
-  </picture>
-</p>
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats image
+        uses: lowlighter/metrics@latest
+        with:
+          filename: assets/github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: princesinghi7
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+
 
 
 
