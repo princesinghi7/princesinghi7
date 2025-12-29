@@ -51,10 +51,9 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=princesinghi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=princesinghi7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princesinghi7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghi7&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
