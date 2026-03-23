@@ -1,5 +1,5 @@
 # 👋 Prince Singh 
-### Full-Stack Web Developer | MERN Stack | Problem Solver  
+### Full-Stack Web Developer | MEAN Stack | Problem Solver  
 
 I’m a **Full-Stack Web Developer** passionate about building **scalable, efficient, and user-focused web applications**.  
 I enjoy working on backend systems, APIs, and solving real-world problems through clean code and modern technologies.
