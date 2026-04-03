@@ -39,10 +39,8 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 
 ---
-
-## Resume
-
-<a href="https://raw.githubusercontent.com/yourusername/yourrepository/main/resume.pdf" target="_blank">
+## RESUME
+<a href="https://raw.githubusercontent.com/princesinghi7/portfolio/main/prince-cv.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" />
 </a>
 
