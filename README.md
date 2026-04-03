@@ -40,6 +40,12 @@ I enjoy working on backend systems, APIs, and solving real-world problems throug
 
 ---
 
+## Resume
+
+<a href="https://raw.githubusercontent.com/yourusername/yourrepository/main/resume.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge" />
+</a>
+
 ## 🛠️ Tech Stack
 
 <p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> </p>
